@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+ background-color: blue;
+ margin: 0 auto;
+ height: 100%;
+ width:100%;
 }
 
 .App-logo {
@@ -25,4 +29,10 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+.smurf-text{
+  color: white;
+}
+.Header{
+  color: lightblue;
 }
